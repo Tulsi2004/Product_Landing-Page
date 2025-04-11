@@ -20,5 +20,5 @@ This is a responsive and modern product landing page for the **MagSafe Wallet Pr
 - `style.css`: External stylesheet
 - `script.js`: JavaScript for animations and interactivity
 
-## Demo
-[Demo Video Link]
+## Demo video
+[https://drive.google.com/file/d/1VDbILlYHq-O1VTnc7HVxMMSlsjL8GeQ7/view?usp=sharing]
