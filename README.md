@@ -21,4 +21,4 @@ This is a responsive and modern product landing page for the **MagSafe Wallet Pr
 - `script.js`: JavaScript for animations and interactivity
 
 ## Demo video
-[https://drive.google.com/file/d/1VDbILlYHq-O1VTnc7HVxMMSlsjL8GeQ7/view?usp=sharing]
+[https://drive.google.com/file/d/1VLZrLUy4RbHVpSUmVG1cUKkah2S1OHfi/view?usp=sharing]
